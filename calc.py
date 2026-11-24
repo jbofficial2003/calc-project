@@ -5,7 +5,9 @@ def subtract(a, b):
     return a - b
 
 def greet():
+<<<<<<< HEAD
     return "Welcome to smart calculator"
+
 
 if __name__ == "__main__":
     print(greet())
